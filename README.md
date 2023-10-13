@@ -1,1 +1,2 @@
 # Yandex-Practicum
+!https://yandex.ru/images/search?pos=0&from=tabbar&img_url=https%3A%2F%2Fcdn4.telegram-cdn.org%2Ffile%2FcWqqUH0S8xv0YtW5CZhZ94WGBAGK93yUxrEzeEgLwsFwEauIRtgrK8v4IuytOwwqDRqHEeljtuwMb4mFn7HtV0n2KtfROAcmpMULkfIqtuyzQa4NFMX8PQ0HU-_-RiDr6iyDUMUCsoeM1pgX_IBwN3YFpdXJqIv3pFgg5o_3loJ3FIZqI782zcOaQTAlviRoP5DvuJvZEOovxOuxNKWaciRsHAFgCrcHe-2btRuXij67nWJuKWU9WWEdRy-3dxpuOhO-I3OveyilE-QoozuUtYmA3Pb18g7ufDMK2m3fIAOoRpJKX2ED_IY4CKCsC7rQXH0L9lof8oidYERFJDBZ5g.jpg&text=practicum+yandex&rpt=simage&lr=10522
