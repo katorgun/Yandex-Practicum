@@ -2,6 +2,7 @@ Welcome to the curated repository showcasing the array of data science projects 
 Included are my certificates of course completion:
 
 Certificate in English 🎓
+
 Certificate in Russian 🎓
 
 | Заголовок 1 | Заголовок 2 | Заголовок 3 |
