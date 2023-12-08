@@ -3,7 +3,7 @@ Included are my certificates of course completion:
 
 [Certificate in English](https://drive.google.com/file/d/14YQP3exP0MKo47_HjERA-fAgeOWGLzgf/view?usp=sharing)🎓
 
-Certificate in Russian 🎓
+[Certificate in Russian](https://drive.google.com/file/d/1tskwJw96IHpEaA2sc83BniWdWzKhZedq/view?usp=sharing) 🎓
 
 | Project | Description | Used libraries |		
 |:-------------:|:-------------:|:-------------:|
