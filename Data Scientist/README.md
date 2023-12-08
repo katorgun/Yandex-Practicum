@@ -6,7 +6,7 @@ Included are my certificates of course completion:
 [Certificate in Russian](https://drive.google.com/file/d/1tskwJw96IHpEaA2sc83BniWdWzKhZedq/view?usp=sharing) 🎓
 
 | Project | Description | Used libraries |		
-|-------------|:-------------:|-------------|
+|:-------------:|:-------------:|:-------------:|
 | [Yandex Music](https://github.com/katorgun/Yandex-Practicum/tree/main/Data%20Scientist/01-Yandex%20music%20research)   |Comparison of musical tastes of Moscow and St. Petersburg. How different is the music that plays on the way to work on Monday morning from the one that plays on Wednesday or at the end of the work week.    | Python, Pandas, Numpy    |
 | Ячейка 4    | Ячейка 5    | Ячейка 6    |
 
