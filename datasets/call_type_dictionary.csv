@@ -1,0 +1,14 @@
+call_type_id,call_type_name
+1,Returns
+2,Shipping
+3,Account General
+4,Info Request
+5,Cancellations
+6,Website Help 
+7,Order Status
+8,Product Issues
+9,Other
+10,Discount Exception
+11,General Comment
+12,Charge Dispute
+13,Damaged Product

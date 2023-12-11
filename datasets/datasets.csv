@@ -1,0 +1,45 @@
+file,location
+music_log_upd_en.csv,Basic Python Theory
+music_project_en.csv,Basic Python project
+support_log_grouped_eng.csv,Data Preprocessing Theory
+DrinkPreferences.csv,Data Preprocessing Guided Case Study 1
+PassengerTotalsClean.xlsx,Data Preprocessing Guided Case Study 2
+PassengerTotals.xlsx,Data Preprocessing Guided Case Study 2
+PassengerCompare.xlsx,Data Preprocessing Guided Case Study 2
+side_effects.xlsx,Data Preprocessing Guided Case Study 3
+test_results.xlsx,Data Preprocessing Guided Case Study 4
+credit_scoring_eng.csv,Data Preprocessing Project
+visits_eng.csv,Exploratory Data Analysis Theory
+vehicles_us.csv,Exploratory Data Analysis Project
+megaline_calls.csv,Statistical Data Analysis Project
+megaline_internet.csv,Statistical Data Analysis Project
+megaline_messages.csv,Statistical Data Analysis Project
+megaline_plans.csv,Statistical Data Analysis Project
+megaline_users.csv,Statistical Data Analysis Project
+games.csv,Integrated Project 1
+project_sql_result_01.csv,SQL Project
+project_sql_result_02.csv,SQL Project
+project_sql_result_03.csv,SQL Project
+train_data_us.csv,Introduction to Machine Learning Theory
+users_behavior.csv,Introduction to Machine Learning Project
+travel_insurance_us_preprocessed.csv,Supervised Learning Theory
+Churn.csv,Supervised Learning Project
+heart.csv,Machine Learning in Business Theory
+geo_data_0.csv,Machine Learning in Business Project
+geo_data_1.csv,Machine Learning in Business Project
+geo_data_2.csv,Machine Learning in Business Project
+gold_recovery_train.csv,DS Integrated Project 2
+gold_recovery_test.csv,DS Integrated Project 2
+gold_recovery_full.csv,DS Integrated Project 2
+insurance_us.csv,Linear Algebra Project
+train_data_n.csv,Numerical Methods Theory
+test_data_n.csv,Numerical Methods Theory
+travel_insurance_us.csv,Numerical Methods Theory
+car_data.csv,Numerical Methods Project
+energy_consumption.csv,Time Series Theory
+taxi.csv,Time Series Project
+imdb_reviews_200.tsv,Machine Learning for Texts Theory
+imdb_reviews.tsv,Machine Learning for Texts Project
+segments.csv,Unsupervised Learning Theory
+cars.csv,Unsupervised Learning Theory
+sales.csv,Unsupervised Learning Theory

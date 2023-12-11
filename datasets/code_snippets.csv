@@ -1,0 +1,16 @@
+﻿Call,Notes,Course,Type,Library,Module
+dtypes,checks the types of data,SL,attribute,pandas,
+info(),short info on the DataFrame,SL,method,pandas,
+describe(),basic distribution stats,SL,method,pandas,
+train_test_split(),splits data into train/test,SL,function,sklearn,model_selection
+unique(),returns list of unique items,SL,method,pandas,
+get_dummies(),,SL,method,pandas,
+LogisticRegression,,SL,class,sklearn,linear_model
+DecisionTreeClassifier,,SL,class,sklearn,tree
+LabelEncoder,,SL,class,sklearn,preprocessing
+OrdinalEncoder,,SL,class,sklearn,preprocessing
+fit(),,SL,method,sklearn,[all models]
+transform(),method for the encoder,SL,method,sklearn,preprocessing
+fit_transform(),method for the encoder,SL,method,sklearn,preprocessing
+OrdinalEncoder,,SL,class,category_encoders,ordinal
+,,,,,

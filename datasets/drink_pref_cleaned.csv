@@ -1,0 +1,298 @@
+resp_id,age,gender,height,weight,nonalcoholic_drink,alcoholic_drink
+1001,19.0,Male,,,Coffee,
+1002,,Female,64.5,128.7,Water,Liquor
+1003,21.0,Male,71.47,182.95,Coffee,Beer
+1004,32.0,Female,57.3,103.4,Green Tea,Wine
+1005,32.0,Female,53.8,138.4,Black Tea,Liquor
+1006,20.0,Male,73.38,204.59,Pepsi,
+1007,20.0,Male,70.46,225.25,Coffee,
+1008,32.0,Female,54.1,157.8,Black Tea,Liquor
+1009,22.0,Male,,197.0,Coffee,Liquor
+1010,45.0,Male,,196.55,Coffee,Liquor
+1011,20.0,Female,61.1,176.7,Apple Juice,
+1012,22.0,Male,69.71,201.68,Apple Juice,Liquor
+1013,24.0,Male,64.78,230.45,Apple Juice,Liquor
+1014,24.0,Male,65.67,192.86,Water,Beer
+1015,20.0,Male,67.15,209.77,Pepsi,
+1016,22.0,Male,,213.98,Black Tea,Liquor
+1017,,Female,59.6,146.4,Water,Liquor
+1018,18.0,Female,62.6,174.3,Black Tea,
+1019,29.0,Female,55.3,140.4,Green Tea,None
+1020,42.0,Female,58.9,132.7,Dr. Pepper,Beer
+1021,,Female,59.8,134.4,Apple Juice,
+1022,23.0,Female,64.6,155.8,Apple Juice,Beer
+1023,,Female,62.8,142.8,Black Tea,
+1024,20.0,Female,55.1,172.8,Green Tea,
+1025,48.0,Female,58.3,146.4,Coke,Liquor
+1026,,Male,73.48,233.47,Coffee,Liquor
+1027,21.0,Female,53.5,143.4,Water,Beer
+1028,32.0,Male,69.01,220.31,Coffee,Liquor
+1029,20.0,Male,71.0,,Black Tea,
+1030,23.0,Male,75.5,228.67,Dr. Pepper,Beer
+1031,45.0,Male,62.16,209.06,Gatorade,Beer
+1032,,Female,58.3,94.4,Black Tea,Liquor
+1033,,Male,,214.48,Black Tea,Liquor
+1034,19.0,Female,54.0,150.6,Green Tea,
+1035,,Male,72.15,231.51,Black Tea,Wine
+1036,24.0,Male,73.27,202.37,Green Tea,Wine
+1037,19.0,Female,55.5,118.7,Coffee,
+1038,47.0,Male,73.84,210.08,Red Bull,Liquor
+1039,,Female,60.9,136.4,Black Tea,Beer
+1040,47.0,Female,56.0,115.4,Red Bull,Beer
+1041,18.0,Female,66.1,118.4,Dr. Pepper,
+1042,,Female,53.9,145.6,Coffee,
+1043,,Female,58.7,151.4,Green Tea,
+1044,29.0,Male,66.03,221.6,Water,Liquor
+1045,23.0,Female,59.2,143.9,Pepsi,Beer
+1046,22.0,Female,57.4,139.9,Coffee,Wine
+1047,18.0,Male,70.94,209.19,Black Tea,
+1048,22.0,Female,55.8,111.0,Black Tea,Wine
+1049,20.0,Male,72.9,,Black Tea,
+1050,49.0,Female,64.8,152.6,Gatorade,Beer
+1051,18.0,Female,57.3,165.9,Black Tea,
+1052,23.0,Female,61.9,145.7,Coffee,Liquor
+1053,23.0,Female,58.9,173.3,Coffee,Wine
+1054,18.0,Male,71.87,218.54,Apple Juice,
+1055,,Male,72.24,212.82,Black Tea,Beer
+1056,47.0,Female,57.3,196.3,Pepsi,Beer
+1057,32.0,Female,59.1,95.5,Water,Liquor
+1058,60.0,Female,62.5,114.9,Red Bull,Liquor
+1059,49.0,Female,62.0,165.7,Dr. Pepper,Liquor
+1060,32.0,Male,70.09,208.52,Coke,None
+1061,20.0,Female,55.8,142.8,Apple Juice,
+1062,23.0,Male,67.87,214.37,Water,Liquor
+1063,22.0,Male,77.34,,Apple Juice,None
+1064,19.0,Male,73.06,210.0,Pepsi,
+1065,21.0,Female,56.8,148.4,Apple Juice,Beer
+1066,18.0,Female,59.8,172.5,Coke,
+1067,21.0,Male,69.72,,Apple Juice,Liquor
+1068,60.0,Female,64.5,154.7,Coke,Liquor
+1069,,Female,63.2,156.0,Black Tea,
+1070,18.0,Male,,192.98,Green Tea,
+1071,29.0,Female,61.0,165.2,Green Tea,Liquor
+1072,23.0,Female,61.4,172.3,Coffee,Liquor
+1073,21.0,Male,72.8,205.93,Green Tea,Liquor
+1074,18.0,Male,,206.55,Red Bull,
+1075,19.0,Male,69.16,216.56,Coke,
+1076,,Male,69.58,201.38,Pepsi,Beer
+1077,21.0,Female,61.2,191.5,Black Tea,Beer
+1078,22.0,Female,60.5,113.4,Green Tea,Liquor
+1079,18.0,Female,61.6,142.0,Apple Juice,
+1080,20.0,Male,68.61,206.05,Red Bull,
+1081,21.0,Male,67.84,,Black Tea,Liquor
+1082,29.0,Male,69.73,216.1,Apple Juice,None
+1083,41.0,Female,53.5,136.5,Dr. Pepper,Liquor
+1084,23.0,Female,65.8,189.7,Apple Juice,Beer
+1085,24.0,Male,67.3,229.97,Black Tea,Liquor
+1086,19.0,Female,61.8,134.4,Apple Juice,
+1087,29.0,Male,,218.8,Dr. Pepper,Liquor
+1088,33.0,Female,53.5,158.2,Coffee,Wine
+1089,23.0,Female,63.2,171.0,Black Tea,Liquor
+1090,21.0,Female,64.5,126.4,Coffee,Beer
+1091,19.0,Female,63.6,160.5,Coke,
+1092,23.0,Male,68.4,,Gatorade,Wine
+1093,,Male,,211.94,Dr. Pepper,Liquor
+1094,49.0,Male,67.53,218.35,Red Bull,Beer
+1095,22.0,Female,62.9,148.5,Coffee,None
+1096,22.0,Female,61.9,136.4,Black Tea,Liquor
+1097,22.0,Male,71.8,200.34,Coke,Beer
+1098,32.0,Female,59.7,155.4,Coke,None
+1099,18.0,Male,72.41,192.27,Black Tea,
+1100,24.0,Male,67.73,196.8,Green Tea,Beer
+1101,29.0,Female,60.8,137.3,Pepsi,None
+1102,24.0,Female,63.0,157.6,Green Tea,Beer
+1103,32.0,Male,73.98,198.58,Water,None
+1105,50.0,Female,56.9,157.4,Coke,Wine
+1106,19.0,Female,65.0,131.5,Green Tea,
+1107,18.0,Male,64.14,223.2,Black Tea,
+1108,,Male,68.9,210.72,Pepsi,Beer
+1109,18.0,Female,56.4,166.9,Green Tea,
+1110,41.0,Female,54.4,130.2,Green Tea,Liquor
+1111,20.0,Male,65.84,198.25,Apple Juice,
+1112,19.0,Female,51.8,119.0,Water,
+1113,21.0,Female,61.3,116.4,Coffee,Liquor
+1114,47.0,Female,62.8,143.9,Dr. Pepper,Wine
+1115,45.0,Male,73.17,204.17,Dr. Pepper,None
+1116,19.0,Female,59.1,141.8,Coffee,
+1117,20.0,Female,60.1,152.9,Green Tea,
+1118,19.0,Female,59.2,147.0,Water,
+1119,46.0,Female,59.4,144.3,Dr. Pepper,Liquor
+1120,24.0,Male,68.78,207.28,Coke,Liquor
+1121,29.0,Male,74.1,212.2,Dr. Pepper,Beer
+1122,46.0,Female,59.2,152.6,Gatorade,Beer
+1123,32.0,Female,63.1,141.1,Coffee,Beer
+1124,23.0,Female,60.7,120.3,Green Tea,Liquor
+1125,20.0,Female,64.4,159.7,Apple Juice,
+1126,19.0,Female,57.6,143.8,Black Tea,
+1127,20.0,Male,70.25,221.82,Coffee,
+1128,24.0,Female,60.6,160.3,Water,Liquor
+1129,18.0,Male,,205.36,Red Bull,
+1130,18.0,Female,60.3,176.4,Black Tea,
+1131,,Male,67.4,215.97,Pepsi,
+1132,23.0,Male,75.31,217.36,Black Tea,Wine
+1133,33.0,Female,61.9,169.3,Coffee,Liquor
+1134,20.0,Male,70.4,207.73,Green Tea,
+1135,19.0,Female,56.3,172.2,Green Tea,
+1136,18.0,Male,,207.96,Pepsi,
+1137,,Male,69.14,216.98,Water,Liquor
+1138,19.0,Female,58.6,144.6,Gatorade,
+1139,20.0,Female,61.8,188.8,Apple Juice,
+1140,23.0,Female,60.8,146.0,Dr. Pepper,Liquor
+1141,18.0,Female,64.7,128.6,Red Bull,
+1142,46.0,Male,71.63,219.17,Coffee,Beer
+1143,50.0,Male,69.54,233.09,Coke,Wine
+1144,26.0,Male,75.2,220.85,Apple Juice,Liquor
+1145,18.0,Female,61.1,159.6,Apple Juice,
+1146,20.0,Male,69.32,232.16,Apple Juice,
+1147,29.0,Male,72.81,193.79,Apple Juice,None
+1148,19.0,Male,68.69,217.61,Black Tea,
+1149,,Female,63.8,115.0,Coffee,Beer
+1150,,Female,56.1,158.9,Apple Juice,
+1151,50.0,Female,60.3,149.9,Gatorade,Liquor
+1152,24.0,Female,59.9,132.2,Apple Juice,Beer
+1153,19.0,Female,60.6,149.7,Water,
+1154,18.0,Male,73.59,250.52,Water,
+1155,29.0,Female,60.5,165.4,Water,Wine
+1156,32.0,Female,62.2,160.3,Water,Wine
+1157,,Male,70.47,213.64,Red Bull,Beer
+1158,42.0,Female,63.0,190.7,Apple Juice,Liquor
+1159,24.0,Female,57.8,158.7,Pepsi,Liquor
+1160,,Female,57.8,148.1,Black Tea,Beer
+1161,19.0,Male,73.94,188.15,Water,
+1162,46.0,Female,67.1,159.2,Coffee,Wine
+1163,,Male,70.17,215.97,Coke,Liquor
+1164,46.0,Female,58.3,146.8,Gatorade,Liquor
+1165,80.0,Male,,181.58,Black Tea,Beer
+1166,32.0,Female,53.9,133.4,Water,None
+1167,22.0,Female,59.0,166.1,Apple Juice,Wine
+1168,21.0,Male,74.52,226.79,Green Tea,Beer
+1169,,Female,65.4,183.3,Pepsi,Liquor
+1170,50.0,Male,67.59,217.55,Gatorade,Liquor
+1171,23.0,Male,67.55,236.03,Apple Juice,Wine
+1172,20.0,Female,58.7,126.0,Coke,
+1173,20.0,Male,72.23,205.38,Water,
+1174,45.0,Female,58.3,157.2,Dr. Pepper,Wine
+1175,19.0,Male,75.06,214.78,Black Tea,
+1176,29.0,Male,75.46,194.33,Gatorade,Liquor
+1177,20.0,Male,74.98,192.77,Dr. Pepper,
+1178,32.0,Male,69.27,216.15,Water,Beer
+1179,32.0,Male,72.76,206.82,Dr. Pepper,Wine
+1180,,Female,60.3,175.0,Water,None
+1181,23.0,Male,73.75,204.53,Coke,Liquor
+1182,22.0,Female,58.4,148.8,Gatorade,None
+1183,33.0,Male,72.79,193.53,Apple Juice,Liquor
+1184,24.0,Female,63.0,196.6,Black Tea,Liquor
+1185,21.0,Male,73.04,190.31,Coffee,Wine
+1186,18.0,Female,59.3,160.3,Green Tea,
+1187,20.0,Male,66.59,,Green Tea,
+1188,29.0,Male,65.44,211.93,Dr. Pepper,Wine
+1189,22.0,Male,68.51,203.12,Water,Wine
+1190,20.0,Female,55.9,121.6,Black Tea,
+1191,23.0,Male,69.02,206.94,Coffee,Wine
+1192,18.0,Female,63.6,191.1,Green Tea,
+1193,19.0,Male,70.25,187.99,Green Tea,
+1194,29.0,Female,58.6,147.1,Green Tea,Liquor
+1195,18.0,Male,70.2,233.05,Coffee,
+1196,20.0,Male,71.06,218.62,Pepsi,
+1197,23.0,Female,59.7,177.9,Water,Wine
+1198,18.0,Female,59.6,126.9,Gatorade,
+1199,,Male,65.73,202.78,Red Bull,Beer
+1200,,Female,58.8,123.3,Dr. Pepper,Beer
+1201,50.0,Female,59.1,162.5,Water,Liquor
+1202,45.0,Female,61.4,123.1,Coffee,Liquor
+1203,23.0,Female,55.8,117.1,Gatorade,Liquor
+1204,48.0,Male,69.7,177.44,Green Tea,Liquor
+1205,24.0,Male,66.65,213.79,Green Tea,Beer
+1206,24.0,Female,61.3,150.7,Gatorade,Beer
+1207,18.0,Male,70.17,238.97,Pepsi,
+1209,,Female,59.9,104.4,Apple Juice,
+1210,20.0,Male,65.34,211.6,Green Tea,
+1211,18.0,Female,55.9,157.9,Black Tea,
+1212,29.0,Male,66.02,209.7,Green Tea,Liquor
+1213,29.0,Male,61.39,179.16,Water,Liquor
+1214,24.0,Male,,168.21,Black Tea,None
+1215,23.0,Male,71.29,216.18,Green Tea,None
+1216,20.0,Male,77.01,190.35,Black Tea,
+1217,21.0,Male,70.86,,Black Tea,Beer
+1218,21.0,Male,69.09,219.49,Water,Beer
+1219,22.0,Male,73.27,209.23,Water,Beer
+1220,60.0,Female,61.4,142.0,Gatorade,Wine
+1221,21.0,Female,62.1,149.8,Dr. Pepper,Beer
+1222,18.0,Female,63.3,135.9,Apple Juice,
+1223,47.0,Male,68.45,205.67,Dr. Pepper,Liquor
+1224,45.0,Female,57.3,174.0,Coffee,Beer
+1225,20.0,Female,59.0,121.2,Gatorade,
+1226,23.0,Female,61.6,152.5,Gatorade,Beer
+1227,20.0,Male,62.21,201.05,Coffee,
+1228,,Male,73.57,231.16,Coffee,
+1229,19.0,Female,58.0,113.6,Coffee,
+1230,21.0,Female,56.0,169.3,Water,None
+1231,,Female,58.5,150.6,Green Tea,
+1233,29.0,Female,62.9,177.5,Green Tea,Liquor
+1234,48.0,Male,68.89,213.72,Coke,Beer
+1235,21.0,Male,,239.33,Green Tea,Liquor
+1236,,Female,58.6,149.9,Coffee,
+1237,21.0,Male,73.85,195.09,Dr. Pepper,Liquor
+1238,33.0,Male,66.18,197.34,Apple Juice,Liquor
+1239,,Female,63.0,133.6,Pepsi,Wine
+1240,21.0,Female,60.0,168.0,Green Tea,Wine
+1241,,Male,68.24,213.21,Apple Juice,
+1242,18.0,Male,71.47,188.23,Black Tea,
+1243,19.0,Male,62.07,203.66,Water,
+1244,23.0,Male,70.31,210.04,Apple Juice,Liquor
+1245,18.0,Male,66.59,200.12,Apple Juice,
+1246,,Male,66.19,210.26,Green Tea,
+1247,18.0,Male,66.38,234.87,Water,
+1248,23.0,Male,67.98,171.91,Dr. Pepper,Liquor
+1249,18.0,Female,64.7,107.3,Gatorade,
+1250,33.0,Female,58.5,157.3,Green Tea,Liquor
+1251,20.0,Male,,189.11,Black Tea,
+1252,29.0,Male,,,Green Tea,None
+1253,22.0,Male,72.86,183.38,Black Tea,Wine
+1254,,Female,60.1,206.3,Water,
+1255,23.0,Female,52.4,145.4,Water,Liquor
+1256,24.0,Male,71.41,210.29,Black Tea,Liquor
+1257,19.0,Female,62.3,121.5,Dr. Pepper,
+1258,32.0,Female,62.2,142.5,Coffee,Wine
+1259,23.0,Male,65.38,206.28,Black Tea,Wine
+1260,22.0,Male,65.47,199.31,Pepsi,Wine
+1261,23.0,Male,72.24,209.5,Water,Liquor
+1262,41.0,Female,59.2,158.1,Coke,Beer
+1263,19.0,Female,50.9,190.4,Apple Juice,
+1264,32.0,Male,,197.32,Black Tea,Liquor
+1265,33.0,Male,,,Black Tea,Beer
+1266,29.0,Female,57.5,147.9,Coffee,Liquor
+1267,24.0,Female,55.4,141.5,Coffee,Liquor
+1268,22.0,Male,,207.28,Water,Liquor
+1269,33.0,Male,67.25,215.35,Gatorade,Liquor
+1270,24.0,Male,69.37,217.67,Green Tea,Liquor
+1271,20.0,Male,68.42,209.88,Dr. Pepper,
+1272,22.0,Female,58.8,155.2,Black Tea,Wine
+1273,21.0,Female,58.8,131.4,Coffee,Liquor
+1274,,Male,69.51,234.57,Apple Juice,
+1275,23.0,Female,63.7,157.4,Black Tea,Liquor
+1276,33.0,Male,67.14,198.18,Red Bull,Wine
+1277,49.0,Female,59.3,147.0,Water,Wine
+1278,24.0,Male,75.91,229.99,Pepsi,None
+1279,18.0,Male,65.33,208.38,Coffee,
+1280,21.0,Male,66.5,,Green Tea,None
+1281,18.0,Female,63.9,128.5,Red Bull,
+1282,19.0,Female,54.9,177.7,Coffee,
+1283,23.0,Male,74.67,213.87,Water,Beer
+1284,19.0,Male,70.21,206.95,Gatorade,
+1285,23.0,Female,62.4,133.2,Black Tea,Beer
+1286,22.0,Male,73.26,,Dr. Pepper,Beer
+1287,45.0,Male,66.6,221.43,Dr. Pepper,Liquor
+1288,24.0,Female,62.6,155.0,Coffee,Wine
+1289,46.0,Female,60.8,147.1,Gatorade,Liquor
+1290,20.0,Male,69.72,187.67,Water,
+1291,19.0,Female,59.6,166.1,Apple Juice,
+1292,24.0,Female,57.8,147.9,Water,Liquor
+1293,43.0,Female,61.3,123.4,Dr. Pepper,Beer
+1294,60.0,Male,66.08,,Red Bull,Liquor
+1295,28.0,Male,66.45,221.08,Apple Juice,None
+1296,20.0,Male,69.85,205.02,Black Tea,
+1297,26.0,Male,71.11,,Coffee,Wine
+1298,30.0,Female,58.3,161.7,Green Tea,Beer
+1299,23.0,Female,61.1,149.5,Gatorade,Liquor
+1300,18.0,Male,74.6,210.44,Water,
