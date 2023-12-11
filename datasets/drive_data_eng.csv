@@ -1,0 +1,12 @@
+Model,Category,Quantity,Cost per minute
+Renault Kaptur,economy,200,5.0
+Kia Rio,economy,300,5.0
+Skoda Rapid,economy,150,5.0
+VW Polo,economy,100,5.0
+Audi Q3,comfort,30,7.1
+Audi A3,comfort,15,7.1
+Genesis G70,comfort,50,8.5
+Mercedes E200,business,90,12.9
+BMW 520i,business,60,12.9
+Porsche Macan,fire,5,35.0
+Porsche Carrera,fire,2,60.0
