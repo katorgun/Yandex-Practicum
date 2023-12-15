@@ -5,7 +5,7 @@
 
 Когда работа руды проходит первичную обработку, получается аромбленная смесь. Её отправляют на флотацию (обогащение) и декантацию остатку.
 
-![Схема технологического процесса](https://drive.google.com/file/d/1QWGDp7Wgf3hKLyXlg04drxfgaDMQYRU_/view?usp=drive_link)
+![Схема технологического процесса](https://drive.google.com/file/d/1QWGDp7Wgf3hKLyXlg04drxfgaDMQYRU_/view)
 
 Описание каждого этапа:
 
