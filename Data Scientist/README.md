@@ -8,6 +8,7 @@ Included are my certificates of course completion:
 | Project | Description | Used libraries |		
 |:-------------:|:-------------:|:-------------:|
 | [Yandex Music](https://github.com/katorgun/Yandex-Practicum/tree/main/Data%20Scientist/01-Yandex%20music%20research)   |Comparison of musical tastes of Moscow and St. Petersburg. How different is the music that plays on the way to work on Monday morning from the one that plays on Wednesday or at the end of the work week.    | Python, Pandas, Numpy    |
+| [Research on the reliability of borrowers](https://github.com/katorgun/Yandex-Practicum/tree/main/Data%20Scientist/01-Yandex%20music%20research)   |Based on statistics on the paying capacity of clients. I researched is the marital status and the number of the client's children affect the fact of the loan repayment on time	    | preprocessing data, Python, Pandas, PyMystem3,Lemmatization, SciPy, Matplotlib, Seaborn, SciKitLearn,numpy    |
 
 		
 
