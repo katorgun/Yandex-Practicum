@@ -1,5 +1,6 @@
 
 # Технологический процесс
+![Скачать данные](https://drive.google.com/drive/folders/1QYxfPTfFuLHCel-wpIhfMFIJhF-9iNXf?usp=drive_link)
 
 Как золото получают из руды? Изучите внимательно стадии процесса.
 
